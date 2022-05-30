@@ -1,5 +1,5 @@
-#HEADING
+# HEADING
 
-##subheading
+## subheading
 
-###another subheading
+### another subheading
